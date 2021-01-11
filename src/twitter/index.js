@@ -17,8 +17,7 @@ import {
   Avatar,
   Message,
   Arrow,
-  Name,
-  Icons
+  Name
 } from "./styles";
 
 const Twitter = props => {
